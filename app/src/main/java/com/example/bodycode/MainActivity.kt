@@ -1,4 +1,3 @@
-```kotlin
 package com.example.bodycode
 
 import android.app.Activity
